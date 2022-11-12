@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Magdiel Gomez",
+      "email": "alt.fw-5o19gmg8@yopmail.com",
+      "phone": "1111111111",
+      "image": {},
+      "id": 1
+    }
+  ]
 }
