@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
     "@mui/material": "^5.10.13",
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -27,6 +28,7 @@
     "yup": "^0.32.11"
   },
   "scripts": {
+    "json-server": "json-server --watch db.json --port 3001",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
